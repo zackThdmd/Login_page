@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="stvLogin">se connecter</string>
+    <string name="shintLogin">mettez votre identifiant ici</string>
+    <string name="sbtnValider">valider</string>
+    <string name="versionname">reseua social</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="stvLogin">تسجيل الدخول</string>
+    <string name="shintLogin">ضع بيانات تسجيل الدخول الخاصة بك هنا</string>
+    <string name="sbtnValider">يضمن</string>
+    <string name="versionname">tawasol Ijtima3i</string>
+</resources>
